@@ -1,5 +1,5 @@
 {
-  "name": "use-sheet",
+  "name": "use-spreadsheet",
   "version": "0.1.0",
   "description": "A React Hook to use Google Drive spreadsheets as a database",
   "main": "index.min.js",
