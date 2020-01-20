@@ -1,4 +1,4 @@
-# use-sheet [![demo](https://img.shields.io/badge/demo-blue.svg)](https://codesandbox.io/s/thirsty-euclid-hnum6)
+# use-spreadsheet [![demo](https://img.shields.io/badge/demo-blue.svg)](https://codesandbox.io/s/thirsty-euclid-hnum6)
 
 React Hook to use Google Drive Spreadsheets as a simple database. Perfect for collaboration with multiple people editing the same spreadsheet. A wrapper for [`drive-db`](https://github.com/franciscop/drive-db):
 
